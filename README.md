@@ -1,6 +1,6 @@
 # CubesWriter
 
-A tool that converts [http://cubes.databrewery.org/](Cubes) JSON models into usable, write-layer SQLAlchemy models.
+A tool that converts [Cubes](http://cubes.databrewery.org/) JSON models into usable, write-layer SQLAlchemy models.
 
 
 ## Installation
